@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#toolkit">Toolkit</a> ·
-  <a href="#selected-work">Selected work</a> ·
-  <a href="#lets-connect">Connect</a>
+  <a href="#user-content-about">About</a> ·
+  <a href="#user-content-toolkit">Toolkit</a> ·
+  <a href="#user-content-selected-work">Selected work</a> ·
+  <a href="#user-content-lets-connect">Connect</a>
 </p>
 
 ## About
