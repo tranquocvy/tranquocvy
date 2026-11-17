@@ -107,7 +107,7 @@ A cinema discovery and booking platform with movies, theaters, showtimes, and an
 
 **What I built**
 
-- The NestJS authentication module and a follow-up architecture refactor, with written architecture notes. — [#3](https://github.com/hoquangsang/NovaCinema/pull/3), [#4](https://github.com/hoquangsang/NovaCinema/pull/4)
+- The first version of the NestJS authentication module (later reworked by a teammate) and the architecture refactor notes. — [#3](https://github.com/hoquangsang/NovaCinema/pull/3), [#4](https://github.com/hoquangsang/NovaCinema/pull/4)
 - A QR-based payment page with cancel and retry-after-expiry flows. — [#42](https://github.com/hoquangsang/NovaCinema/pull/42), [#51](https://github.com/hoquangsang/NovaCinema/pull/51)
 - Admin screens for movies, rooms (with a seat-map editor), showtimes (including bulk scheduling), and user roles. — [#41](https://github.com/hoquangsang/NovaCinema/pull/41)
 - A Gemini-powered chatbot: backend module plus a markdown chat UI. — [#47](https://github.com/hoquangsang/NovaCinema/pull/47)
@@ -136,6 +136,6 @@ A Windows desktop app for small shops to manage products, orders, customers, and
 
 I’m looking for backend or fullstack internship and junior roles.
 
-[Portfolio ↗](https://tranquocvy.github.io) · [Email](mailto:quocvy23072005@gmail.com) · [GitHub ↗](https://github.com/tranquocvy)
+[Portfolio ↗](https://tranquocvy.github.io) · [Email](mailto:tqvy.work@gmail.com) · [GitHub ↗](https://github.com/tranquocvy)
 
 <sub>Thoughtful interfaces. Well-built systems.</sub>
