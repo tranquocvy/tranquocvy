@@ -16,6 +16,8 @@ I’m **Tran Quoc Vy**, a final-year Software Engineering student at **HCMUS** a
 
 Everything below is team coursework. Each project lists **what I personally built**, with links to the pull requests.
 
+**Portfolio:** [tranquocvy.github.io](https://tranquocvy.github.io) · **Case study:** [How I built payments for Ticket_Box ↗](https://tranquocvy.github.io/projects/ticket-box/)
+
 ## Toolkit
 
 A project-led toolkit, from interface to delivery.
@@ -132,6 +134,8 @@ A Windows desktop app for small shops to manage products, orders, customers, and
 
 ## Let’s connect
 
-For projects and collaboration, find me on [GitHub ↗](https://github.com/tranquocvy).
+I’m looking for backend or fullstack internship and junior roles.
+
+[Portfolio ↗](https://tranquocvy.github.io) · [Email](mailto:quocvy23072005@gmail.com) · [GitHub ↗](https://github.com/tranquocvy)
 
 <sub>Thoughtful interfaces. Well-built systems.</sub>
