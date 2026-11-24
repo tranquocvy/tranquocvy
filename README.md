@@ -136,6 +136,6 @@ A Windows desktop app for small shops to manage products, orders, customers, and
 
 I’m looking for backend or fullstack internship and junior roles.
 
-[Portfolio ↗](https://tranquocvy.github.io) · [Email](mailto:tqvy.work@gmail.com) · [GitHub ↗](https://github.com/tranquocvy)
+[Portfolio ↗](https://tranquocvy.github.io) · [Email](mailto:tqvy.work@gmail.com) · [GitHub ↗](https://github.com/tranquocvy) · [LinkedIn ↗](https://www.linkedin.com/in/tqvy/)
 
 <sub>Thoughtful interfaces. Well-built systems.</sub>
